@@ -3,7 +3,7 @@
   "displayName": "AL QuickCode",
   "publisher": "QuickCodeSoft",
   "description": "Speed up your AL development workflow with this multifunctional extension.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {"url": "https://github.com/aliaslias/ALQuickCode"},
   "engines": {
     "vscode": "^1.80.0"
