@@ -1,7 +1,5 @@
 # AL QuickCode
 
-![AL QuickCode Logo](images/al-quickcode_logo-128x128.png)
-
 ## Description
 
 AL QuickCode is a multifunctional extension designed to enhance your AL (Application Language) development workflow. It streamlines the process of generating Event Subscribers and copying them to the clipboard with just a few clicks, saving you valuable time and effort.
