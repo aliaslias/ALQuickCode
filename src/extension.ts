@@ -70,7 +70,7 @@ export function activate(context: vscode.ExtensionContext) {
 				}
 
 				var eventsubs = "[EventSubscriber(ObjectType::" + buildObjectType + ", " + buildUnitType +
-							    "::" + objectName + ", '" + functionName + "', '', false, false)]\r\n" +
+							    "::" + objectName + ", " + functionName + ", '', false, false)]\r\n" +
 								"    local procedure " + functionName + functionParams + "\r\n" + "    begin" + 
 								"\r\n    \r\n" + "    end;";
 
